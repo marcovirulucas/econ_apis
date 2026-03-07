@@ -22,4 +22,4 @@ In some cases, an API key is required.
 **World**
 - International Monetary Fund (IMF). *Publication date: April 7*
 - Organisation for Economic Co-operation and Development (OECD). *Publication date: March 27*
-- World Bank. *Publication date: March 6*
+- [World Bank](https://github.com/marcovirulucas/econ_apis/blob/main/world/World_Bank.ipynb)
