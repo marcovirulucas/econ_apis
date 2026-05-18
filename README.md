@@ -13,7 +13,7 @@ In some cases, an API key is required.
 **United States**
 - Bureau of Economic Analysis (BEA). *Publication date: May 28*
 - [Bureau of Labor Statistics (BLS)](https://github.com/marcovirulucas/econ_apis/blob/main/united_states/BLS_inflation.ipynb)
-- Fiscal Data. *Publication date: May 12*
+- [Fiscal Data](https://github.com/marcovirulucas/econ_apis/blob/main/united_states/Fiscal_Data.ipynb)
 - FRED. *Publication date: May 26*
 
 **Peru**
